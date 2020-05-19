@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpComManagerCore", "TcpComManagerCore\TcpComManagerCore.csproj", "{3A033CA1-3E72-4D39-AD06-E6BB8E8D5CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A033CA1-3E72-4D39-AD06-E6BB8E8D5CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A033CA1-3E72-4D39-AD06-E6BB8E8D5CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A033CA1-3E72-4D39-AD06-E6BB8E8D5CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A033CA1-3E72-4D39-AD06-E6BB8E8D5CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0B639D-10C9-4901-B70C-062115C06A88}
+	EndGlobalSection
+EndGlobal

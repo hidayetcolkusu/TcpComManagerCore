@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+     <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Hidayet Raşit ÇÖLKUŞU</authors>
+    <owners>Hidayet Raşit ÇÖLKUŞU</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license> 
+    <description>Tcp Comunication Manager</description>
+    <releaseNotes>Tcp Comunication Manager</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Tcp Comunication Manager</tags>
+  </metadata>
+</package>
